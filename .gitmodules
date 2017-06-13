@@ -4,3 +4,6 @@
 [submodule "packages"]
 	path = packages
 	url = https://github.com/novalabs/core-packages.git
+[submodule "libs"]
+	path = libs
+	url = https://github.com/novalabs/core-libs.git
